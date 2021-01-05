@@ -4,7 +4,7 @@
 The files in this repository were used to configure the network depicted below.
 
 
-![TODO: Update the path with the name of your diagram](Images/diagram_filename.png)
+![https://github.com/Mthomas2021/ELK-Stack/blob/main/Diagrams/Network%20Diagram.png](Images/Network Diagram.png)
 
 
 
